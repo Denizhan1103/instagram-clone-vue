@@ -41,6 +41,7 @@ export default class Header extends Vue {
         display: flex;
         justify-content: center;
         border-bottom: 1px solid #EAEAEA;
+        margin-bottom: 30px;
 
         &__logo {
             width: 105px;
